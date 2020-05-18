@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-18T18:18:30.220Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="bYUxEXmEZO6-5SJQWQ_z" version="13.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-18T18:20:28.691Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="bGGTJ3ohYtsWLArj9VWM" version="13.1.2" type="github">
   <diagram id="Y1dgfGaZHvey4KiwJcpZ" name="Page-1">
     <mxGraphModel dx="1113" dy="566" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="of7v7lBAQ2le604TVpO9-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="of7v7lBAQ2le604TVpO9-4" target="of7v7lBAQ2le604TVpO9-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="of7v7lBAQ2le604TVpO9-4" value="게시글" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="of7v7lBAQ2le604TVpO9-4" value="게시판" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="340" y="70" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="of7v7lBAQ2le604TVpO9-5" value="초대코드 생성" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
